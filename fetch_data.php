@@ -1,5 +1,5 @@
 <?php
-     $con = mysqli_connect("localhost","sandsl23_appoint","s@nds1@b","sandsl23_im_diss");
+     $con = mysqli_connect("localhost","username","password","dbname");
 
         if (mysqli_connect_errno())
         {
